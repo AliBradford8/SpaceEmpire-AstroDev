@@ -32,6 +32,17 @@ Welcome to the AstroDev (ADEV) Token Development Repository, the official testne
 - **Token Standard**: ERC-20 with modular enhancements for advanced functionalities.
 - **Smart Contract Language**: Solidity (with meticulous audits and secure coding practices).
 - **Wallet Integration**: Test wallet compatibility and extensive user environment simulations.
+- ## Deployment Details
+
+- **Testnet:** Sepolia
+- **Contract Address:** [0xd3088588f480528a4e0bd0f77913659efabd9e79](https://sepolia.etherscan.io/address/0xd3088588f480528a4e0bd0f77913659efabd9e79)
+- **Transaction Hash:** [0xaa3973a4fd34afd9711201565c069ecb6151d8ef2a6eabaae8af56fafd028c6a](https://sepolia.etherscan.io/tx/0xaa3973a4fd34afd9711201565c069ecb6151d8ef2a6eabaae8af56fafd028c6a)
+- **Date/Time:** January 16, 2025
+- **Gas Used:** 0.0141408817 ETH
+- **Deployed By:** Initial Owner Wallet (`0xDC558a208fcCC8f3304C8761dCaaaC439B04D95b`)
+
+This deployment marks the first successful contract creation on Sepolia as part of the AstroDev project.
+
 
 ## Roadmap & Vision
 AstroDev serves as the foundational prototype for future mainnet operations, embodying the values of technological innovation, security, and user-centric design. Each iteration and feature developed in this repository brings us closer to launching AstroCrown (ACROWN) with unmatched performance and resilience.
